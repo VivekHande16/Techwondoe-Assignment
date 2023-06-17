@@ -1,0 +1,9 @@
+export const HOST = 'db';
+export const PORT = '8080';
+export const DB_TYPE = 'postgres';
+export const DB_PORT = '5432';
+export const DB_NAME = 'docker';
+export const DB_PASSWORD = '123456';
+export const API_V1_VERSION = 'v1.0'
+export const AUDIENCE = 'https://dev-7dn3ob7ga0flj6n8.us.auth0.com/api/v2/';
+export const ISSUER_BASE_URL = 'https://dev-7dn3ob7ga0flj6n8.us.auth0.com/';
