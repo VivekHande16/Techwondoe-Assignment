@@ -19,21 +19,12 @@ This repo contains back-end source code.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/techwondoe.git
+   git clone https://github.com/VivekHande16/Techwondoe-Assignment.git
    ```
-2. Checkin backend folder
-   ```sh
-   cd Backend
-   ```
-
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Run app
+2. Run app
    ```sh
    docker-compose up --build -d
-   ```
+   ``` 
 
 
 # Technology Stack
